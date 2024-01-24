@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning HTML, css, javascript, Rdbms , Java , ReactJS, SpringBoot, GIT, Jenkins,TypeScript, MongoDB,Recoil.js
 - 💞️ I’m looking to collaborate on working related to development
-- 📫 How to reach me by my email yagisingh2772@gmail.com
+- 📫 How to reach me by my email yagisingh21@gmail.com
 
 <!---
 yagyarajkhangarot-creator/yagyarajkhangarot-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
